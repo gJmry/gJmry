@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Jérémy's Github stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Dev&show_icons=true&theme=synthwave)
+

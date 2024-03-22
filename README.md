@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Jérémy (but people call me Jéméry) 👋
 
 <!--
 **Jemery-Dev/Jemery-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@
 
 ### Web skills ###
 
-![](https://skillicons.dev/icons?i=symfony,svelte,vue,js,html,css)
+![](https://skillicons.dev/icons?i=symfony,svelte,vue,js,html,css,php)
 
 ### Software skills ###
 

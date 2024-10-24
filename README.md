@@ -12,10 +12,3 @@
 ### Software skills ###
 
 ![](https://skillicons.dev/icons?i=rust,c,java,python)
-
-
-
-
-
-![Jéméry's Github stats](https://github-readme-stats.vercel.app/api?username=Jemery-Dev&showicons=true&theme=synthwave)
-<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemery-Dev&hide_border=true&theme=radical&langs_count=6" />

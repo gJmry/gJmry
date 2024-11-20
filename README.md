@@ -11,4 +11,4 @@
 
 ### Software skills ###
 
-![](https://skillicons.dev/icons?i=rust,c,java,python)
+![](https://skillicons.dev/icons?i=rust,go,c,java,springboot,python)

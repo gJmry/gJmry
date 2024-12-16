@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jérémy (but people call me Jemer)</h1>
-<h3 align="center">An enthusiastic developer from France 🥖</h3>
+<h3 align="center">An idiotic developer from France 🥖</h3>
 
 - 🔭 I’m currently working on [CLI for Svelte in Rust](https://github.com/gJmry/svelte-cli)
 - 🌱 I’m currently learning trying to learn **ThreeJS** <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="PHP" width="20" height="20"/></a>

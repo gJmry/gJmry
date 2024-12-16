@@ -2,7 +2,7 @@
 <h3 align="center">An idiotic developer from France 🥖</h3>
 
 - 🔭 I’m currently working on [CLI for Svelte in Rust](https://github.com/gJmry/svelte-cli)
-- 🌱 I’m currently learning trying to learn **ThreeJS** <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="PHP" width="20" height="20"/></a>
+- 🌱 I’m trying to learn **ThreeJS** <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="PHP" width="20" height="20"/></a>
 - 📝 I occasionally share my thoughts and experiences through articles on my [blog](https://blog.gjeremy.dev/)
 
 ---

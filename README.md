@@ -60,5 +60,6 @@
 ---
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gjmry&show_icons=true&locale=en&layout=compact" alt="gjmry" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gjmry&show_icons=true&locale=en" alt="gjmry" /></p>
+  ![gJmry's Stats](https://github-readme-stats.vercel.app/api?username=gJmry&theme=slateorange&show_icons=true&hide_border=false&count_private=true)
+  ![gJmry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gJmry&theme=slateorange&show_icons=true&hide_border=false&layout=compact)
+  ![gJmry's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gJmry&theme=slateorange&hide_border=false)

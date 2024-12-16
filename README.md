@@ -1,32 +1,26 @@
 <h1 align="center">Hi 👋, I'm Jérémy (but people call me Jemer)</h1>
-<h3 align="center">An enthusiastic developer from France</h3>
+<h3 align="center">An enthusiastic developer from France 🥖</h3>
 
 - 🔭 I’m currently working on [CLI for Svelte in Rust](https://github.com/gJmry/svelte-cli)
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning trying to learn **ThreeJS** <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="PHP" width="40" height="40"/></a>
+- 📝 I occasionally share my thoughts and experiences through articles on my [blog](https://blog.gjeremy.dev/)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
-<!-- Add your contact links or social profiles here -->
-</p>
-
----
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" alt="Rust" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">Frameworks & Libraries:</h3>
+<h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
@@ -40,7 +34,7 @@
 
 ---
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
@@ -49,7 +43,7 @@
 
 ---
 
-<h3 align="left">Other Tools:</h3>
+<h3 align="left">Other Tools</h3>
 <p align="left">
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
@@ -59,7 +53,7 @@
 
 ---
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gJmry&theme=slateorange&show_icons=true&hide_border=false&count_private=true" alt="gJmry's Stats" />
 </p>

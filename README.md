@@ -16,8 +16,10 @@
 - [ ] **Learn React** : I don't like this framework that much but I guess it's important to learn
 - [ ] **Proper development** : Start trying to develop in a consistent way
 
-### 📝 **Writing and Sharing**
+### 📝 **Writing and Reading**
 - [ ] **Write more blogs**: Continue writing and sharing technical blogs on topics I'm passionate about
+- [ ] **Clean Code** : Read entirely the Clean Code book by Robert C.
+- [ ] **Clean Architecture** : Read entirely the Clean Architecture book by Robert C.
 
 ---
 

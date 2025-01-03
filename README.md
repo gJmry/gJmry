@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jérémy (but people call me Jemer)</h1>
 <h3 align="center">An idiotic developer from France 🥖</h3>
 
-- 🔭 I’m currently working on [CLI for Svelte in Rust](https://github.com/gJmry/svelte-cli)
-- 🌱 I’m trying to learn **ThreeJS** <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="PHP" width="20" height="20"/></a>
-- 📝 I occasionally share my thoughts and experiences through articles on my [blog](https://blog.gjeremy.dev/)
+## 🌟 Goals for 2025 🚀
+
+### 🧑‍💻 **Projects to Complete**
+- [ ] **Finish my CLI in Svelte for Rust**: Finalize the development of my command-line interface (CLI) using Svelte and Rust
+- [ ] **Start developing a video game**: Begin creating a video game using Godot
+- [ ] **Release a new Portfolio** : My old Portfolio could be better and I want to upgrade it
+- [ ] **Coding random websites** : Keep on developping weird websites to experience new technologies or ideas
+- [ ] **Web Assembly** : Make a website using Web Assembly to try it out
+  
+### 📚 **Skills to Learn**
+- [ ] **Learn Three.js**: Dive into 3D graphics and start building with Three.js
+- [ ] **Learn C# or C++** : Explore low-level programming and gain more experience with C# or C++
+- [ ] **Learn React** : I don't like this framework that much but I guess it's important to learn
+- [ ] **Proper development** : Start trying to develop in a consistent way
+
+### 📝 **Writing and Sharing**
+- [ ] **Write more blogs**: Continue writing and sharing technical blogs on topics I'm passionate about
 
 ---
 

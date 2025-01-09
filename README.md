@@ -4,7 +4,7 @@
 ## 🌟 Goals for 2025 🚀
 
 ### 🧑‍💻 **Projects to Complete**
-- [ ] **Finish my CLI in Svelte for Rust**: Finalize the development of my command-line interface (CLI) using Svelte and Rust
+- [X] **Finish my CLI in Svelte for Rust**: Finalize the development of my command-line interface (CLI) using Svelte and Rust
 - [ ] **Start developing a video game**: Begin creating a video game using Godot
 - [ ] **Release a new Portfolio** : My old Portfolio could be better and I want to upgrade it
 - [ ] **Coding random websites** : Keep on developping weird websites to experience new technologies or ideas

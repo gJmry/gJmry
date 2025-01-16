@@ -77,7 +77,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gJmry&theme=slateorange&show_icons=true&hide_border=false&layout=compact" alt="gJmry's Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=gJmry&theme=slateorange&hide_border=false" alt="gJmry's Streak" />
-</p>

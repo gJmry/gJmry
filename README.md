@@ -11,9 +11,9 @@
 - [ ] **Web Assembly** : Make a website using Web Assembly to try it out
   
 ### 📚 **Skills to Learn**
-- [ ] **Learn Three.js**: Dive into 3D graphics and start building with Three.js
+- [ X ] **Learn Three.js**: Dive into 3D graphics and start building with Three.js
 - [ ] **Learn C# or C++** : Explore low-level programming and gain more experience with C# or C++
-- [ ] **Learn React** : I don't like this framework that much but I guess it's important to learn
+- [ X ] **Learn React** : I don't like this framework that much but I guess it's important to learn
 - [ ] **Proper development** : Start trying to develop in a consistent way
 
 ### 📝 **Writing and Reading**

@@ -6,7 +6,7 @@
 ### 🧑‍💻 **Projects to Complete**
 - [X] **Finish my CLI in Svelte for Rust**: Finalize the development of my command-line interface (CLI) using Svelte and Rust
 - [X] **Start developing a video game**: Begin creating a video game using Godot
-- [ ] **Release a new Portfolio** : My old Portfolio could be better and I want to upgrade it
+- [X] **Release a new Portfolio** : My old Portfolio could be better and I want to upgrade it
 - [X] **Coding random websites** : Keep on developping weird websites to experience new technologies or ideas
 - [ ] **Web Assembly** : Make a website using Web Assembly to try it out
   

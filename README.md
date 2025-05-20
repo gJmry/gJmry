@@ -8,6 +8,8 @@
 - [X] **Start developing a video game**: Begin creating a video game using Godot
 - [X] **Release a new Portfolio** : My old Portfolio could be better and I want to upgrade it
 - [X] **Coding random websites** : Keep on developping weird websites to experience new technologies or ideas
+- [ ] **Coding Exercice Website** : Makea  website around the idea of training to code
+- [ ] **Svelte95** : Make an UI Library based on React95 for Svelte
 - [ ] **Web Assembly** : Make a website using Web Assembly to try it out
   
 ### 📚 **Skills to Learn**
